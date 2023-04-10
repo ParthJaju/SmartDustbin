@@ -47,6 +47,7 @@ This project demonstrates the potential of technology to address real-world issu
 Overall, the smart dustbin is a testament to the power of innovation and highlights the importance of adopting sustainable and eco-friendly practices in our daily lives.
 
 References:
+
 [1] https://www.flyrobo.in/blog/smart-dustbin-arduino
 
 [2] https://www.youtube.com/watch?v=9yrP1CZN3Ds
