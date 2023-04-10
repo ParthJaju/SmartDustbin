@@ -48,4 +48,5 @@ Overall, the smart dustbin is a testament to the power of innovation and highlig
 
 References:
 [1] https://www.flyrobo.in/blog/smart-dustbin-arduino
+
 [2] https://www.youtube.com/watch?v=9yrP1CZN3Ds
