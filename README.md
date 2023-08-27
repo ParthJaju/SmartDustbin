@@ -6,7 +6,7 @@ Smart Dustbin using Arduino Mega, Ultrasonic Sensor, Servo Motor.
 2.	Tanmay Jani
 3.	Parth Jain
 
-##Abstract:
+## Abstract:
 
 In this project, we have designed and developed a smart dustbin using an ultrasonic sensor, Arduino microcontroller, and servo motor. The aim of this project is to provide an efficient and automated waste management system that can help in keeping the environment clean and hygienic. The ultrasonic sensor detects the presence of waste in the dustbin and triggers the servo motor to open the lid, allowing the user to dispose of the waste. The dustbin lid automatically closes after the waste has been deposited, making the system completely hands-free.
 
